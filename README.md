@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rosebunny3119
+- 👀 I’m interested in 🔶 Ξ 🥞 
+- 🌱 I’m currently learning solidity
+- 💞️ I’m looking to collaborate on nothing atm
+- 📫 How to reach me, rosebunny3119@gmail.com
